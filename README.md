@@ -20,9 +20,8 @@ Tanıtım Videosu
 https://drive.google.com/file/d/1qsowwDxycOuhjj0ShocCca5v7ZbIDXyz/view?usp=sharing
 -----------------
 
-## 🚀 Canlı Linkler
-
 > Şu an proje  local ortamda sorunsuz çalışmaktadır. Şu an frontend canlıya alınmış durumdadır, backend ise lokal çalışmaktadır. İleride tam deploy planlanmaktadır.
+> ------------------------------
 hotel-booking-app/
 ├── frontend/ → Vue.js ile geliştirilen kullanıcı arayüzü
 └── webhotelbackend/ → Spring Boot ile geliştirilen RESTful
